@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/flysystem": "^1.0",
+        "laravel/ui": "^2.0"
+    }
+}
